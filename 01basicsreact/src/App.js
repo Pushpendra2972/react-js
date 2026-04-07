@@ -1,8 +1,13 @@
 
+import Chai from './Chai'
+
 
 function App() {
   return (
-    <h2>chai aur react | Pushpendra Kumar</h2>
+   <>
+    <Chai/>
+    <h2> chai aur react</h2>
+   </>
   );
 }
 
