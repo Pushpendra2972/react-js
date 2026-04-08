@@ -11,8 +11,7 @@ function App() {
    <h3> hellow react </h3>
    
    </>
-   
-   
+
   )
 }
 
